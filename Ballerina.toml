@@ -1,0 +1,10 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["priceconversion"]
+  name = "priceconversion"
+  org = "choreodemo1210"
+  version = "0.1.0"
+
